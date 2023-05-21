@@ -1,0 +1,62 @@
+[
+  {
+    "code": "",
+    "name": "Universal Studio Singapore Globe",
+    "area": "Main Entrance",
+    "coordinate": [728, 827]
+  },
+  {
+    "code": "M1",
+    "name": "Gru and the Minions",
+    "area": "Hollywood",
+    "coordinate": [736, 669]
+  },
+  {
+    "code": "M2",
+    "name": "Po and Master Tigress",
+    "area": "Hollywood",
+    "coordinate": [698, 672]
+  },
+  {
+    "code": "M3",
+    "name": "Madagascar",
+    "area": "Hollywood",
+    "coordinate": [744, 697]
+  },
+  {
+    "code": "M4",
+    "name": "Shrek and Fiona",
+    "area": "Far Far Away",
+    "coordinate": [559, 436]
+  },
+  {
+    "code": "M5",
+    "name": "Raptor Encounter",
+    "area": "The Lost World",
+    "coordinate": [697, 397]
+  },
+  {
+    "code": "M6",
+    "name": "Hatched! Featuring Dr. Rodney",
+    "area": "The Lost World",
+    "coordinate": [721, 386]
+  },
+  {
+    "code": "M7",
+    "name": "Egyptian Legends",
+    "area": "Ancient Egypt",
+    "coordinate": [953, 394]
+  },
+  {
+    "code": "M8",
+    "name": "Voices of Cybertron",
+    "area": "Sci-Fi City",
+    "coordinate": [969, 543]
+  },
+  {
+    "code": "M9",
+    "name": "Sesame Street",
+    "area": "New York",
+    "coordinate": [853, 618]
+  }
+]
